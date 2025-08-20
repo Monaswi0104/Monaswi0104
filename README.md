@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Monaswi Kumar Bharadwaj  
 
-<!--
-**Monaswi0104/Monaswi0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech IT (2026) | Gauhati University Institute of Science & Technology**  
+💡 Passionate about **Machine Learning, Deep Learning, and Computer Vision**  
+🚀 Building projects in **AI, ML, Web Development, and Networking**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Languages:** Python, Java, C, C++, SQL  
+- **Web/Database:** HTML, CSS, MySQL  
+- **ML/DL Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV  
+- **Cloud & Tools:** AWS, Git, VS Code  
+
+---
+
+## 📌 Featured Projects
+- 🔥 **[Fire & Smoke Detection (YOLOv8)]()** – Real-time detection with bounding boxes & confidence scores  
+- 🍅 **[Tomato Leaf Disease Classification (CNN)]()** – Classified 10 tomato diseases with 16K+ images  
+- 🧑‍🤝‍🧑 **[Face Recognition System (InsightFace)]()** – Automated student recognition & tagging in classrooms  
+- 💊 **[Medi-Aid Web App]()** – Doctor appointment & medical-aid platform for rural areas  
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/monaswi-kumar-bharadwaj-051713296)  
+- 📧 Email: **bharadwajmonaswi@gmail.com**  
+
+---
+
+⭐️ *“Always learning, always building.”*
