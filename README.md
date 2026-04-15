@@ -16,7 +16,7 @@
 
 ## 📌 Featured Projects
 - 🔥 **[Fire & Smoke Detection (YOLOv8)]()** – Real-time detection with bounding boxes & confidence scores (https://github.com/LoneTerror/IOCL-Fire-Smoke_Detection)   
-- 🧑‍🤝‍🧑 **[Multiple Face Recognition (InsightFace)]()** – Automated student recognition & tagging in classrooms (https://github.com/Monaswi0104/Mini_Project)
+- 🧑‍🤝‍🧑 **[Multiple Face Recognition (InsightFace)]()** – Automated student recognition & tagging in classrooms (https://github.com/Monaswi0104/Single-Frame-Multiple-Face-Recognition-using-Insightface.git)
 - 💊 **[Medi-Aid Web App]()** – Doctor appointment & medical-aid platform for rural areas (https://github.com/Geet2002/Medi-Aid)  
 
 ---
