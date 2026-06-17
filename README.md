@@ -29,9 +29,9 @@
 ### 🎓 Facidance — AI Face Recognition Attendance System
 > *B.Tech Capstone Project | Supervised by Dr. Shikhar Kumar Sarma, HOD — IT*
 
-A production-grade smart attendance system using deep learning face embeddings for fully automated student recognition. Built end-to-end across a web platform, mobile app, and cloud-deployed backend — collaboratively developed with [Arijit Banik](https://github.com/arijit-banik).
+A production-grade smart attendance system using deep learning face embeddings for fully automated student recognition. Built end-to-end across a web platform, mobile app, and cloud-deployed backend — collaboratively developed with [Arijit Banik](https://github.com/arijitb17).
 
-#### 🌐 [Facidance — Web & Backend](https://github.com/Monaswi0104)
+#### 🌐 [Facidance — Web & Backend](https://github.com/Monaswi0104/Facidance1)
 
 - **Recognition Engine:** InsightFace (Buffalo_L / ArcFace), cosine similarity matching (threshold 0.45), IoU deduplication
 - **Backend:** 5 FastAPI microservices proxied via nginx, PostgreSQL on NeonDB, Prisma ORM
@@ -55,7 +55,7 @@ Cross-platform React Native mobile app that brings face recognition attendance t
 ---
 
 ### 🔥 [Fire & Smoke Detection System](https://github.com/Monaswi0104/IOCL-Fire-Smoke_Detection)
-> *Developed during AI/ML Internship at Indian Oil Corporation Limited (IOCL)*
+> *Developed during AI/ML Internship at Indian Oil Corporation Limited (IOCL) | Co-developed with [Prasun Chakraborty](https://github.com/LoneTerror)*
 
 Real-time fire and smoke detection using YOLOv8 for industrial safety monitoring. Detects hazards with bounding boxes and confidence scores from live camera feeds.
 
@@ -71,11 +71,24 @@ Automated multi-face recognition system capable of detecting and identifying mul
 
 ---
 
-### 💊 [Medi-Aid Web App](https://github.com/Geet2002/Medi-Aid)
+### 💊 [Medi-Aid Web App](https://github.com/Monaswi0104/Medi-Aid)
+> *Co-developed with [Geetartha Bordoloi](https://github.com/Geet2002)*
 
 A medical consultancy web platform designed for rural healthcare access, enabling doctor appointment bookings and medical aid requests with a two-click user experience.
 
 `HTML` `CSS` `JavaScript` `MySQL`
+
+### 📚 [StudyBuddy — AI-Powered Exam Preparation Companion](https://github.com/Monaswi0104/StudyBuddy)
+
+An AI-powered mobile app that automatically generates high-quality study materials from notes and textbooks. Upload a PDF or snap a photo of your notes, and StudyBuddy instantly produces interactive flashcards, quizzes with detailed explanations, and comprehensive summaries — tailored for competitive exams like JEE, NEET, and AIIMS.
+
+- **AI Generation:** Groq API (`llama-3.1-8b-instant`) with fault-tolerant chunking — splits documents into 3000-character segments, handles HTTP 429 rate limits with exponential backoff, guarantees zero crashes on large inputs
+- **Native PDF Extraction:** Custom Kotlin Native Module (`PdfTextExtractorModule.kt`) using Apache PDFBox — extracts 100+ page PDFs entirely offline, bypassing slow JS parsers
+- **OCR:** Google ML Kit integration for instant text recognition from physical handwritten notes
+- **Backend & Auth:** Supabase (PostgreSQL) for cloud sync — flashcards and quizzes stay in sync across devices
+- **Architecture:** Bare React Native CLI (not Expo) for deep native integrations; Dark/Light mode, custom SVG progress graphics
+
+`React Native` `TypeScript` `Kotlin` `Groq (Llama 3.1)` `Supabase` `Apache PDFBox` `ML Kit` `Native Modules`
 
 ---
 
@@ -122,7 +135,7 @@ A medical consultancy web platform designed for rural healthcare access, enablin
 
 <div align="center">
 
-![Monaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monaswi0104&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Monaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monaswi0104&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monaswi0104&layout=compact&theme=tokyonight&hide_border=true)
 
