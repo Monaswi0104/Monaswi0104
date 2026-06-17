@@ -18,7 +18,7 @@
 
 - 🎓 Final-year B.Tech IT student at **GUIST, Guwahati**, graduating 2026
 - 🔭 Currently building **Facidance** — an AI-powered face recognition attendance system (capstone project)
-- 💡 Deep interest in **ML/DL, Computer Vision, Cloud Infrastructure, and Full-Stack Development**
+- 💡 Deep interest in **ML/DL, Computer Vision, Cloud Infrastructure, Full-Stack Development, and App Development**
 - 🏆 3rd Prize at **Hackinfinity 2024** | Event Coordinator at **HackDays 3.0** | **GDG On-Campus** Associate
 - 🤝 Open to collaborations, internships, and interesting projects
 
